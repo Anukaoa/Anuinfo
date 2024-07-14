@@ -6,7 +6,7 @@ body {
 	width: auto;
 }
 body #page {
-	background: url("../images/bck3.png") no-repeat scroll center top #000000;
+	background: url("./bck3.png") no-repeat scroll center top #000000;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
@@ -31,7 +31,7 @@ img {
 }
 /*----------------------------------------header-styles---------------------------------------*/
 #header {
-	background: url(../images/bg-transparent1.png) repeat;
+	background: url(./bg-transparent1.png) repeat;
 	margin: 0;
 	min-height: 60px;
 	padding: 0;
